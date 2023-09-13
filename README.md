@@ -14,7 +14,7 @@
   </a>
  
 </div>
-[![GitHub Views](https://komarev.com/ghpvc/?username=Tirthpanchori&color=FAC151)][1]
+[![GitHub Views](https://komarev.com/ghpvc/?username=Tirthpanchori&color=#FAC151)][1]
 <h1>
   Hello friend
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
