@@ -28,7 +28,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a First Year Undergrad.
+I am a Second Year Undergrad.
 
 - :telescope: I’m looking for exposure and practical experience.
 
