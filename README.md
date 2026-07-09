@@ -39,7 +39,7 @@
 
 ## <img src="https://img.shields.io/badge/-●-6D28D9?style=flat-square" height="12"/> About Me
 ``` 
-I'm a pre-final year Information Science Engineering student at BMS Instituteof Technology & Management, Bengaluru, working
+I'm a final year Information Science Engineering student at BMS Instituteof Technology & Management, Bengaluru, working
 across three areas: backend systems, full-stack web development, and applied GenAI/LLMtooling.
 
 On the backend, I build REST APIs, auth flows, and rate-limited services withDjango REST Framework and FastAPI, backed by
