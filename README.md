@@ -38,26 +38,17 @@
 <br/>
 
 ## <img src="https://img.shields.io/badge/-●-6D28D9?style=flat-square" height="12"/> About Me
+``` 
+I'm a pre-final year Information Science Engineering student at BMS Instituteof Technology & Management, Bengaluru, working
+across three areas: backend systems, full-stack web development, and applied GenAI/LLMtooling.
 
-```
+On the backend, I build REST APIs, auth flows, and rate-limited services withDjango REST Framework and FastAPI, backed by
+PostgreSQL and Redis. On the frontend, I pair those APIs with React interfaces. And on the AI side, I buildRAG/RAT
+pipelines — retrieval-augmented pipelines using LangChain, ChromaDB,and Groq's Llama 3.1 models — as a way to apply LLMs to
+real problems likequiz generation and log analysis.
 
-I'm a pre-final year Information Science Engineering student at BMS Institute
-of Technology & Management, Bengaluru, working across three areas I care about
-equally: backend systems, full-stack web development, and applied GenAI/LLM
-tooling.
-
-On the backend, I build REST APIs, auth flows, and rate-limited services with
-Django REST Framework and FastAPI, backed by PostgreSQL and Redis. On the
-frontend, I pair those APIs with React interfaces. And on the AI side, I build
-RAG/RAT pipelines — retrieval-augmented pipelines using LangChain, ChromaDB,
-and Groq's Llama 3.1 models — as a way to apply LLMs to real problems like
-quiz generation and log analysis.
-
-I'm currently deepening my DSA fundamentals (Trees, Graphs, DP) alongside
-contributing to open source through Summer of Code '26, and actively building
-full-stack + AI projects end-to-end: API design, data modeling, and frontend
-delivery.
-
+I'm currently deepening my DSA fundamentals (Trees, Graphs, DP) alongside contributing to open source through SSoC '26
+and actively buildingfull-stack + AI projects end-to-end: API design, data modeling, and frontenddelivery.
 ```
 
 <div align="center">
@@ -79,8 +70,8 @@ delivery.
 **Backend & APIs**
 
 <img src="https://skillicons.dev/icons?i=django,fastapi,express,nodejs&theme=dark"/>
-<img src="https://img.shields.io/badge/JWT_Auth-6D28D9?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0f0524"/>
-<img src="https://img.shields.io/badge/REST_APIs-6D28D9?style=flat-square&logo=fastapi&logoColor=white&labelColor=0f0524"/>
+<img src="https://img.shields.io/badge/JWT_Auth-6D28D9?style=flat-square&labelColor=0f0524"/>
+<img src="https://img.shields.io/badge/REST_APIs-6D28D9?style=flat-square&labelColor=0f0524"/>
 
 **Frontend**
 
@@ -112,10 +103,10 @@ delivery.
 
 | Area | Level | Details |
 |---|:---:|---|
-| **Backend Development (Django/FastAPI)** | ●●●●○ | Built REST APIs, JWT auth with token rotation, and Redis-backed rate limiting across multiple projects |
-| **Full-Stack (React)** | ●●●●○ | Ship React/Vite frontends paired with self-built backends; comfortable with Tailwind and component architecture |
-| **LLM Inference (Groq / Llama 3.1)** | ●●●●○ | Integrated Llama 3.1 8B for quiz generation and log reasoning through structured prompt chaining |
+| **Backend Development (Django/FastAPI)** | ●●●○○ | Built REST APIs, JWT auth with token rotation, and Redis-backed rate limiting across multiple projects |
+| **Full-Stack (React)** | ●●●○○ | Ship React/Vite frontends paired with self-built backends; comfortable with Tailwind and component architecture |
 | **RAG/RAT Pipelines** | ●●●○○ | Built a custom multi-pass retrieval engine (LogAnalyzer) and a multi-source RAG pipeline (MindArc) using LangChain + ChromaDB |
+| **LLM Inference (Groq / Llama 3.1)** | ●●●○○ | Integrated Llama 3.1 8B for quiz generation and log reasoning through structured prompt chaining |
 | **DSA / Problem Solving** | ●●●○○ | 200+ LeetCode problems solved, contest rating ~1490; Trees, Graphs, DP in progress |
 | **Vector Databases & Embeddings** | ●●○○○ | ChromaDB with per-session collections and metadata filtering; sentence-transformers for semantic search |
 
@@ -225,26 +216,11 @@ Engineered a Redis ZSET–based sliding-window rate limiter with O(log N) comple
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-●-6D28D9?style=flat-square" height="12"/> GitHub Analytics
+## <img src="https://img.shields.io/badge/-●-6D28D9?style=flat-square" height="12"/> GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tirthpanchori&show_icons=true&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&ring_color=6D28D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirthpanchori&theme=radical&hide_border=true&background=0f0524&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthpanchori&layout=compact&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=C4B5FD" width="45%"/>
-
-</div>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-●-6D28D9?style=flat-square" height="12"/> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tirthpanchori&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultipleYears"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirthpanchori&theme=radical&hide_border=true&background=0f0524&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
 
 </div>
 
@@ -277,15 +253,18 @@ Engineered a Redis ZSET–based sliding-window rate limiter with O(log N) comple
 ```yaml
 current_focus:
   learning:
-    - Trees, Graphs, and Dynamic Programming (DSA)
-    - System design fundamentals
+    - Advanced Distributed Systems & System Design
+    - Graphs, DP, and advanced algorithmic patterns
   building:
-    - RAG/RAT pipelines with LangChain + ChromaDB
-    - Backend services with REST APIs, auth, and rate limiting
-    - React frontends for self-built backends
+    - Production-grade RAG/RAT pipelines with LangChain + ChromaDB
+    - Backend services with strict latency & abuse-resistance guarantees
+  exploring:
+    - Multi-agent LLM orchestration
+    - Vector search optimization at scale
   open_to:
     - Internships
     - Full-Time SDE Roles
+    - AI/ML Engineering Roles
     - Open Source Collaboration
     - Freelance Projects
 ```
